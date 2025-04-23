@@ -2,6 +2,13 @@
 📌 Project Title:
 Web Scraping and Analysis of Online Bookstore Data
 
+Problem Statement / Objective:
+
+"To build a dataset of books from an online source through web scraping and analyze key insights such as price distribution, availability trends, 
+and customer ratings to support decision-making for online book sales or inventory management."
+
+
+
 📝 Project Summary:
 
 In this project, I used web scraping techniques to collect data from an online bookstore. The dataset includes information about book titles, prices, availability status,
